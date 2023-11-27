@@ -155,8 +155,8 @@ body {
 <div class="footer">
 <div class="topnav">
 <a href = "aboutus.html">About Us</a>
-  <a href="endo.html">Home</a>
-  <a href="the effects.html">Mental Health</a>
+  <a href="home.html">Home</a>
+  <a href="index.html">Mental Health</a>
   <a href="support.html">Support</a>
 </div>
 
