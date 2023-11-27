@@ -117,8 +117,8 @@ font-color: #72cccf;
 
 <div class="topnav">
 <a href = "aboutus.html">About Us</a>
-  <a href="endo.html">Home</a>
-  <a href="mentalhealth.html">Endometriosis and mental health </a>
+  <a href="home.html">Home</a>
+  <a href="index.html">Endometriosis and mental health </a>
   <a href="support.html">Support</a>
  
 </div>
